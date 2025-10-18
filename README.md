@@ -152,3 +152,4 @@ The project includes several key configuration files that standardize developmen
 - **Directory.Packages.props**: Centralizes NuGet package version management
   - Ensures consistent package versions across all projects
   - Simplifies updates by changing versions in a single location
+
